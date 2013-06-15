@@ -13,3 +13,8 @@ web-services-test-client
 3. mvn clean install
 4. cd target directory
 5. run .jar file
+
+**Remaining
+
+1. MovieManager
+2. CatalogService
