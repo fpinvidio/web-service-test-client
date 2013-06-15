@@ -8,7 +8,7 @@ web-services-test-client
 
 **Installing web-services-test-client - Release v1.0**
 
-1. download https://github.com/fpinvidio/web-services-test-client/archive/v1.0.tar.gz and extract
+1. download https://github.com/fpinvidio/web-service-test-client/archive/v1.0.tar.gz and extract
 2. cd extract directory
 3. mvn clean install
 4. cd target directory
